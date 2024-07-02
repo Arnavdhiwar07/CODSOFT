@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13RqlaxtraDewsAqIKyBOLQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://kit.fontawesome.com/de693aaea3.js" crossorigin="anonymous"></script>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Generative AI - All AI Tools in One Place</title>
+  <link rel="stylesheet" href="style.css" />  <link rel="stylesheet" href="utils.css" />  </head>
+<body>
+  <div class="container mx-auto">
+    <header class="bg-brown">
+      <nav class="flex justify-between">
+        <div class="font-bold flex item-center text-blue head-size">
+          <i>Generative AI</i>
+        </div>
+        <ul class="navbar flex item-centers">
+          <li class="pointer">Home</li>
+          <li class="pointer">About</li>
+          <li class="pointer">Services</li>
+          <li class="pointer">Contact us</li>
+          <li><button class="btn btn-primary">Buy Premium Pack</button></li>
+        </ul>
+      </nav>
+      <hr />
+      <div class="top-right-corner">
+        <button class="btn btn-primary">Explore</button>
+      </div>
+    </header>
+    <main class="min-h-screen">
+      <section class="section1">
+        <div class="flex">
+          <div class="topleft flex item-center flex-col px-2">
+            <strong class="my-1">What is AI?</strong>
+            <p>
+              Generative AI transforms creativity by enabling machines to
+              autonomously create art, music, and literature using advanced
+              algorithms and neural networks. It goes beyond automation,
+              sparking innovation and pushing creative boundaries across
+              industries.
+            </p>
+          </div>
+          <div class="topright flex">
+            <img src="robo.jpg" alt="AI Robot" height="500" />
+          </div>
+        </div>
+      </section>
+      <hr />
+      <section class="section2">
+        <h1 class="centered-text">Types of AI</h1>
+        <div class="ai-types-container justify-around">  <div class="ai-type-box">  <h2>Artificial Narrow Intelligence (ANI)</h2>
+            <p>
+              ANI, also known as Weak AI, excels at performing specific tasks.
+              Here are some examples:
+              <ul>
+                
+                    <li>
+                        <b>Voice assistants (like Siri and Alexa):</b> 
+                        <a href="https://support.apple.com/en-us/105020">Siri</a> 
+                        <a href=" https://alexa.amazon.com/" >Alexa </a>
+                      </li>
+                      
+                
+                <li>
+                  <b>Image recognition systems:</b>
+                  <a href="https://cloud.google.com/vision">Google Voice Assistant</a>
+                  <a href="https://aws.amazon.com/rekognition/">Amazon Voice </a> 
+                  These systems analyze digital images and identify objects within them.
+                </li>
+                
+                <li>
+                  <b>Recommendation algorithms:</b>
+                  <a href="https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/">Youtube Recommendation</a>
+                  These AI systems recommend products or content based on user data.
+                </li>
+              </ul>
+            </p>
+          </div>
+          <div class="ai-type-box">
+            <h2>Artificial General Intelligence (AGI)</h2>
+            <p>
+              AGI, a hypothetical concept, refers to a machine with human-like intelligence. 
+              It would be capable of learning and applying knowledge across various tasks. 
+              Currently, AGI doesn't exist.
+            </p>
+          </div>
+          <div class="ai-type-box">
+            <h2>Artificial Superintelligence (ASI)</h2>
+            <p>
+              ASI is a theoretical concept of intelligence surpassing human capabilities. 
+              It's a subject of ongoing research and ethical discussions due to its potential challenges.
+            </p>
+          </div>
+        </div>
+      </section>
+      <hr />
+      <section class="section3"></section>
+      <table bgcolor="black">
+        <tr bgcolor="grey">
+          <th width="100">Ai tools</th>
+          <th width="1200">Purpose</th>
+        </tr>
+
+      <tr bgcolor="lightgrey">
+        <td> <a href="https://gamma.app/">Gamma.app</a> </td>
+        <td>Create ppt using Ai.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://numerous.ai/">Numerous.Ai</a></td>
+        <td>Excel Sheet Pro.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td> <a href="https://www.framer.com/features/design-layout/?via=lam49&gad_source=1&gclid=CjwKCAjwhIS0BhBqEiwADAUhc54VOg7Ycyb635AdNBMV8MrWZckZ1eXIk5DjIQLkXjVH3KykFn-W9hoCuvEQAvD_BwE">Framer.Ai</a></td>
+        <td>building website using Ai.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://feedly.com/ai">Feedly.com</a></td>
+        <td>read and analyze information so it can declutter your feeds and save you time.(Create Content)</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://engage-ai.co/">Engage.Ai</a></td>
+        <td> uses our revolutionary new voice analytics technology to understand the tone of both sides of the conversation.(comment on linkedIn posts)</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://leonardo.ai/">Leonardo.Ai</a></td>
+        <td>Create images using Ai.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://www.heygen.com/">Heygen</a></td>
+        <td>Speak 10+ languages using Ai.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://invideo.io/">Invideo Ai</a></td>
+        <td>Create text to a video.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://suno.com/">Suno Ai</a></td>
+        <td>Give description and create song.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://www.d-id.com/">DID Ai</a></td>
+        <td>Convert image to video.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://www.resumai.com/">Resume Ai</a></td>
+        <td>Create resume using Ai.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://chat.openai.com/"> ChatGpt</a></td>
+        <td>To emulate human-like discourse for multifaceted conversational engagement and assistance endeavors.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://gemini.google.com/app?hl=en-IN">Gemini</a></td>
+      <td>To elevate AI proficiencies through amalgamated reasoning and linguistic comprehension for intricate problem-solving.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://copilot.microsoft.com/">Co-pilot</a></td>
+        <td>To augment developer productivity via real-time syntactic suggestions and code autocompletion.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://claude.ai/">Claude.Ai</a></td>
+        <td>To deliver sophisticated conversational interactions and high-fidelity information synthesis through advanced natural language processing.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://www.perplexity.ai/">Perplexity.Ai</a></td>
+        <td>To measure the predictive accuracy of language models by quantifying the uncertainty in probability distributions of text sequences.</td>
+      </tr>
+
+      <tr bgcolor="lightgrey">
+        <td><a href="https://theresanaiforthat.com/">AI for that</td>
+        <td>The largest database of 13025 AIs available for over 14363 tasks. Use our smart AI search to find the best AI tools for any use case.</td>
+      </tr>
+      </table>
+
+
+
+        <hr />
+      </main>
+      <footer class="text-center py-3 justify-center">
+        <div class="container">
+          <p>&copy; 2024 Generative AI. | All rights reserved.</p>
+          <a href="mailto:arnavdhiwar07@gmail.com">arnavdhiwar07@gmail.com</a> |
+          <a href ="tel:7744883786">Call us</a>
+          <br />
+          <a href="https://www.instagram.com/aarnavdhiwar_0728/"><i class="fa-brands fa-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/arnav-dhiwar-33ab3117b/"><i class="fab fa-linkedin-in"></i></a>
+          <br />
+      
+          <hr>
+          
+          <form action="thankyou.html" method="get" class="text-center py-3 justify-center">
+            <div class="mb-3">
+              <label for="name" class="form-label">Your Name</label>
+              <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Email Address</label>
+              <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="mb-3">
+              <label for="phone" class="form-label">Phone Number (Optional)</label>
+              <input type="tel" class="form-control" id="phone" name="phone">
+            </div>
+            <button type="submit" class="btn btn-primary">Enroll For Free Ai Tools</button>
+          </form>
+      
+          <br />
+      
+          <a href="privacy.html">Privacy Policy</a> | 
+          <a href="terms.html">Terms & Conditions</a> | 
+          <a href="help.html">Help Center</a>
+        </div>
+      </footer>      
+    </div>
+  </body>
+</html>
+  
